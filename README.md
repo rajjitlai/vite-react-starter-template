@@ -1,5 +1,8 @@
 # Vite + React Modern Starter Template
 
+![Project Preview](assets/demo-preview.png)
+
+
 A professional, high-performance starter template for modern React applications, built with **Vite 8** and **React 19**. This template is designed for developers who want a premium starting point with the latest technology stack and cleanest configuration.
 
 ## 🚀 Features
@@ -49,6 +52,7 @@ A professional, high-performance starter template for modern React applications,
 ## 📂 Project Structure
 
 ```text
+├── assets/        # Project visual assets and screenshots
 ├── src/
 │   ├── App.jsx        # Main component with landing page logic
 │   ├── main.jsx       # Application entry point
